@@ -9,7 +9,7 @@ This automatically checks out the branch.
 
 `git push`
 
-After you push, create a pull request in GitHub.  Once it's approved, you can then merge.
+Once code is uploaded, you can go to GitHub and create a pull request.
 
 When you click merge, the code in your branch gets combined with the code in master.
 
